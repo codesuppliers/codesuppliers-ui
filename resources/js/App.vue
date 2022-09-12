@@ -4,7 +4,7 @@
   >
     <div class="container divide-y divide-gray-600">
       <Header />
-      <router-view class="pt-4"></router-view>
+      <router-view></router-view>
     </div>
   </div>
 </template>
